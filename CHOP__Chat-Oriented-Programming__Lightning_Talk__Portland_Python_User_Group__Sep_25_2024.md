@@ -43,4 +43,4 @@ https://www.linkedin.com/in/robbednark/
 ### • video: [https://sourcegraph.com/blog/chat-oriented-programming-in-action](https://sourcegraph.com/blog/chat-oriented-programming-in-action) (by Ado Kukic from Sourcegraph  9/4/24)
 ### • webinar/video: _Part 2 of The Death of the Junior Developer_, 9/23/24  -- how AI and LLMs are transforming the developer landscape and the industry’s future;  Steve Yegge from Sourcegraph and Gene Kim (video not posted yet as of 9/25/24)
 ### • video: Steve Yegge coaching Gene Kim how to use CHOP (video not posted yet as of 9/25/24; mentioned in 9/23/24 webinar)
-### • coding assistant: [Cody by Sourcegraph](https://sourcegraph.com/cody) (free and paid plans)
+### • coding assistant: [Cody by Sourcegraph](https://sourcegraph.com/cody) (free and paid plans) (other coding assistants: GitHub Copilot, Amazon CodeWhisperer, Codium, ...)
