@@ -1,9 +1,9 @@
 # CHOP - Chat-Oriented Programming
 
-*Lightning Talk at*
-*Portland Python User Group*
-*Sep 25, 2024*
-*Rob Bednark*  
+*Lightning Talk*  
+*Portland Python User Group*  
+*Sep 25, 2024*  
+*Rob Bednark*   
 https://www.linkedin.com/in/robbednark/
 
 ### Shortlink to this doc: http://bit.ly/chop-pdx 
@@ -38,10 +38,9 @@ https://www.linkedin.com/in/robbednark/
 ## • How do you use Gen AI for coding?
 
 # References, Resources
-• blog post: [The Death of the Junior Developer](https://sourcegraph.com/blog/the-death-of-the-junior-developer)  by Steve Yegge from Sourcegraph, Jun 24, 2024
-• video: [Chat Oriented Programming (CHOP) in action](https://www.youtube.com/watch?v=CZGDhgcQL6I) by Steve Yegge from Sourcegraph 8/12/24
-• video: [https://sourcegraph.com/blog/chat-oriented-programming-in-action](https://sourcegraph.com/blog/chat-oriented-programming-in-action) (by Ado Kukic from Sourcegraph  9/4/24)
-https://sourcegraph.com/cody
-• webinar/video: _Part 2 of The Death of the Junior Developer_, 9/23/24  -- how AI and LLMs are transforming the developer landscape and the industry’s future;  Steve Yegge from Sourcegraph and Gene Kim (video not posted yet as of 9/25/24)
-• video: Steve Yegge coaching Gene Kim how to use CHOP (video not posted yet as of 9/25/24; mentioned in 9/23/24 webinar)
-• coding assistant: [Cody by Sourcegraph](https://sourcegraph.com/cody) (free and paid plans)
+### • blog post: [The Death of the Junior Developer](https://sourcegraph.com/blog/the-death-of-the-junior-developer)  by Steve Yegge from Sourcegraph, 6/24/2024
+### • video: [Chat Oriented Programming (CHOP) in action](https://www.youtube.com/watch?v=CZGDhgcQL6I) by Steve Yegge from Sourcegraph 8/12/24
+### • video: [https://sourcegraph.com/blog/chat-oriented-programming-in-action](https://sourcegraph.com/blog/chat-oriented-programming-in-action) (by Ado Kukic from Sourcegraph  9/4/24)
+### • webinar/video: _Part 2 of The Death of the Junior Developer_, 9/23/24  -- how AI and LLMs are transforming the developer landscape and the industry’s future;  Steve Yegge from Sourcegraph and Gene Kim (video not posted yet as of 9/25/24)
+### • video: Steve Yegge coaching Gene Kim how to use CHOP (video not posted yet as of 9/25/24; mentioned in 9/23/24 webinar)
+### • coding assistant: [Cody by Sourcegraph](https://sourcegraph.com/cody) (free and paid plans)
