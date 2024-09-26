@@ -7,7 +7,7 @@
 https://www.linkedin.com/in/robbednark/
 
 ### Shortlink to this doc: http://bit.ly/chop-pdx 
-![[images/bit.ly_chop-pdx.png]]
+![image](images/bit.ly_chop-pdx.png)
 
 # Purpose of talk
 - Briefly describe CHOP
